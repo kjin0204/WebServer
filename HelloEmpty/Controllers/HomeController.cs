@@ -21,5 +21,12 @@ namespace HelloEmpty.Controllers
 
             return View(msg);
         }
+
+        [HttpPost]
+        public IActionResult Index(HelloMessage obj)
+        {
+            ViewBag.Noti = "Input Changed";
+            return View(obj);
+        }
     }
 }
