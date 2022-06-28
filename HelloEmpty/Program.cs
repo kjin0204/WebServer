@@ -13,6 +13,11 @@ namespace HelloEmpty
      * M (Model)        데이터
      * V (View)         UI
      * C (Controller)    Controller 액션
+     * 
+     * 
+     * M        모델
+     * VC       뷰컨트롤러
+     * M - V -VM
      */
     public class Program
     {

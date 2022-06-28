@@ -26,8 +26,8 @@ C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Hello
 C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.TagHelpers.input.cache
 C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.TagHelpers.output.cache
 C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorCoreGenerate.cache
-C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorTargetAssemblyInfo.cs
 C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.Views.pdb
 C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.csproj.CopyComplete
+C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kang\source\repos\HellowAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
