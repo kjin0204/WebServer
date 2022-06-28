@@ -9,6 +9,11 @@ using System.Threading.Tasks;
 
 namespace HelloEmpty
 {
+    /*
+     * M (Model)        데이터
+     * V (View)         UI
+     * C (Controller)    Controller 액션
+     */
     public class Program
     {
         public static void Main(string[] args)
